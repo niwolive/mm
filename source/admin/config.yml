@@ -3,6 +3,7 @@ backend:
   repo: niwolive/mm # Path to your GitHub repository
   branch: master # Branch to update (master by default)
 
+publish_mode: editorial_workflow
 media_folder: "img/uploads" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
